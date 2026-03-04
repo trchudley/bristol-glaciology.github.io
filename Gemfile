@@ -1,7 +1,9 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3"
-gem "minimal-mistakes-jekyll"
+gem "jekyll", "~> 4.0"
+gem "jekyll-remote-theme", "~> 0.4.3"
+gem "kramdown-parser-gfm"
+
 gem "jekyll-feed"
 gem "jekyll-sitemap"
 gem "jekyll-gist"

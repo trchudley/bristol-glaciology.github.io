@@ -11,12 +11,13 @@ repository: bristol-glaciology/bristol-glaciology.github.io
 github_username: bristol-glaciology
 
 # Theme
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: "default"
 logo: /assets/images/logos/bgc-logo.png
 
 # Build settings
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
