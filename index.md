@@ -29,6 +29,10 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+**Note:** This website is currently under production. Please bear with us whilst things get up and running! 
+{: .notice--warning}
+
+
 {% include feature_row %}
 
 ## About Us

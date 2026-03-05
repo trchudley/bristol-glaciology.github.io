@@ -10,7 +10,7 @@ We are always interested in hearing from talented researchers and students keen 
   <a href="#job-openings" class="btn btn--primary">Job Openings</a>
   <a href="#research-fellowships" class="btn btn--primary">Research Fellowships</a>
   <a href="#phd-students" class="btn btn--primary">PhD Students</a>
-  <a href="#mscr" class="btn btn--primary">MScR Students</a>
+  <!-- <a href="#mscr" class="btn btn--primary">MScR Students</a> -->
 </p>
 
 <p style="text-align: center; margin: 2em 0;">
@@ -57,6 +57,7 @@ More information on potential funding sources is available on [the School of Geo
 
 If you have identified an appropriate funding source and potential project that aligns with one of the BGC faculty, please do not hesitate to get in contact with us to discuss opportunities.
 
+<!-- 
 ## Masters-by-Research (MScR) {#mscr}
 
 MScR projects (one year full-time or two years part-time) offer the opportunity to perform an independent research project supported by an expert supervisor within the group. Students have the opportunity to propose their own research project, either based on the ideas outlined below, or on their own interests.
@@ -71,7 +72,7 @@ There may be opportunities for financial support for students. For UK students, 
 | **Exploring Ice Dynamics, Hydrology, and Ice-Ocean interactions Using Earth Observation Techniques**<br>Open satellite data, digital elevation models, and glacier velocity fields have revolutionised large-scale assessment of cyrospheric change. We welcome students who are interested in using open-source Python tools and 'big data' approaches (including deep learning) to explore processes occurring at fast-flowing ice sheets and outlet glaciers, ice caps, and mountain glaciers. | [**Tom Chudley**](mailto:tom.chudley@bristol.ac.uk) |
 | **Glaciers in a Changing World: Modelling, Data Science, and Societal Relevance**<br>The University of Bristol is a global leader in large-scale glacier modelling, spearheading the development of the Open Global Glacier Model (OGGM, http://oggm.org). We welcome applications from students interested in: (1) Advancing the OGGM model by incorporating new physical processes, (2) Designing innovative strategies for model initialization, (3) Applying the model to address pressing questions on glacier change. | [**Fabien Maussion**](mailto:fabien.maussion@bristol.ac.uk) |
 | **MicroLab@Bristol**<br>Please see [https://microlabbristol.org/join-us/](https://microlabbristol.org/join-us/) for more details on research opportunities in glacier microbiology. | [**Chris Williamson**](mailto:c.williamson@bristol.ac.uk) |
-
+ -->
 
 ## Our commitment to inclusive research and scholarship {#inclusivity}
 

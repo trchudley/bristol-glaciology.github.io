@@ -2,6 +2,11 @@
 
 A Jekyll website powered by Minimal Mistakes theme, hosted on GitHub Pages.
 
+Repo and tutorial website for Minimal Mistakes theme:
+
+ - https://github.com/mmistakes/minimal-mistakes/
+ - https://mmistakes.github.io/minimal-mistakes/
+
 ## Test website locally
 
 1. **Install Ruby** (if not already installed)
