@@ -37,7 +37,9 @@ Repo and tutorial website for Minimal Mistakes theme:
 
 ### Managing People
 
-To add or remove people, create or delete markdown files in `_people/`:
+If you are not comfortable with GitHub, you can [open a new Issue on the GitHub repository](https://github.com/bristol-glaciology/bristol-glaciology.github.io/issues) and select 'Add Person to Website' as the template, which provides a handy form to act off of.
+
+If you know what you are doing, it is possible to create or delete markdown files in `_people/`:
 
 ```markdown
 ---
@@ -52,7 +54,7 @@ profile_url: "https://bristol.ac.uk/profile"
 
 Notes:
 
- - These markdown files are by convention names `firstname-lastname.md`.
+ - These markdown files are by convention named in the format `firstname-lastname.md`.
  - Images also need to be added in the `/assets/images/people/` directory in the format `firstname-lastname.jpg`, and are recommended to be square aspect ratio, `jpg` format, and ideally between 400x400 and 800x800 pixels in size.
  - The default recommendation is for `profile_url` to link to your People page (for staff) and Pure page (for PGRs, who do not universally have a People page). However, you could also choose to link to your personal website etc. if desirable.
 
