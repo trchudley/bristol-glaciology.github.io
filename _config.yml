@@ -22,7 +22,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-include-cache
-  - jekyll-analytics
 
 # Collections
 collections:
@@ -82,11 +81,3 @@ defaults:
 
 # Enable JavaScript
 enable_js: true
-
-# https://github.com/hendrikschneider/jekyll-analytics
-jekyll_analytics:
-  Plausible:
-    domain: 'bristol-glaciology.github.io/'
-    source: 'https://plausible.oggm.org/js/script.js'
-    host: 'https://plausible.oggm.org'
-    embed_tracker: true
