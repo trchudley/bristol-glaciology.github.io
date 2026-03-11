@@ -2,7 +2,7 @@
 title: Bristol Glaciology Centre
 subtitle: School of Geographical Sciences, University of Bristol
 description: >-
-  The Bristol Glaciology Centre focuses on the study of cold and ice-covered 
+  The Bristol Glaciology Centre focuses on the study of cold and ice-covered
   regions across the globe, from the Arctic to the Antarctic.
 author: Bristol Glaciology Centre
 url: https://bristol-glaciology.github.io
@@ -22,6 +22,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-include-cache
+  - jekyll-analytics
 
 # Collections
 collections:
@@ -81,3 +82,11 @@ defaults:
 
 # Enable JavaScript
 enable_js: true
+
+# https://github.com/hendrikschneider/jekyll-analytics
+jekyll_analytics:
+  Plausible:
+    domain: 'bristol-glaciology.github.io/'
+    source: 'https://plausible.oggm.org/js/script.js'
+    host: 'https://plausible.oggm.org'
+    embed_tracker: true

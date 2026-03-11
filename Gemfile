@@ -8,6 +8,7 @@ gem "jekyll-feed"
 gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "jekyll-include-cache"
+gem "jekyll-analytics"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library for Windows compatibility
