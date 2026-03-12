@@ -1,6 +1,6 @@
 ---
-title: BGC Group Notes
-permalink: /resources/group-notes/
+title: Notes for New Members
+permalink: /resources/new-members/
 classes: wide
 ---
 

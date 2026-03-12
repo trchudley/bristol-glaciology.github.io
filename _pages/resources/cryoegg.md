@@ -1,10 +1,8 @@
 ---
-title: Hardware
-permalink: /resources/hardware/
+title: Cryoegg
+permalink: /resources/cryoegg/
 classes: wide
 ---
-
-Advanced instruments and measurement systems developed by BGC members.
 
 More information coming soon!
 {: .notice--info}

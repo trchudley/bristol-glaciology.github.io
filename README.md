@@ -104,7 +104,7 @@ Resource pages are in `_pages/resources/` and displayed as a grid via the `_reso
    bundle exec jekyll serve
    ```
 
-   Visit the indicated address (normally `http://localhost:4000`) in your browser.
+   Visit the indicated address (normally something like `http://127.0.0.1:4000/`) in your browser.
 
 ## Customization
 
