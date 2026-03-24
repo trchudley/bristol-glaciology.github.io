@@ -26,6 +26,17 @@ classes: wide
 
 <div style="clear: both;"></div>
 
+## Research support staff
+
+<div class="grid__wrapper">
+{% assign support_staff = site.people | where: "type", "support" | sort: "last_name" %}
+{% for person in support_staff %}
+  {% include person-grid.html %}
+{% endfor %}
+</div>
+
+<div style="clear: both;"></div>
+
 ## PhD Students
 
 <div class="grid__wrapper">
